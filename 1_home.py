@@ -14,12 +14,10 @@ df['time'] = pd.to_datetime(df.index)
 df = df.sort_values(by='time').reset_index(drop=True)
 
 
-# Set the page config with system theme
 st.set_page_config(
     page_title='Selection',
     page_icon="👀",
-    layout='wide',
-    theme={"primaryColor": "blue", "backgroundColor": "black", "secondaryBackgroundColor": "white", "textColor": "black", "font": "sans serif", "use_system_settings": True}
+    layout='wide'
 )
 
 st.title("Lumiterra Project: Marketplace Analytics")
