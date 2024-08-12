@@ -34,7 +34,8 @@ OBS:
 pandas to manipulate it and plotly.express to plot. :D             
             
 If you find this __useful__ and want to support me, please, consider __donating__:
-            
+
+    Ronin Wallet: 0x1b381d0f357cb5c6e7b86aa35eb53fce20b2709e
     BTC Wallet: bc1qk6glseyj4wyqrr05jemqhdz0l24he5u6555ll6 
     Metamask: 0x1382A41F37689858eD16771487e76Afa969eE148""")
 
